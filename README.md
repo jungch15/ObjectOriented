@@ -12,7 +12,7 @@
 
 -> 관리자는 모든 게시판에 대한 작성 권한을 가지고 있고, 사용자를 추가, 삭제, 수정할 수도 있다.
 
-#주의사항:
+# 주의사항:
 
 현재 본인 컴퓨터에선 파일 경로에 문제가 없으나, github에 올라간 파일의 경우 파일의 경로가 틀릴 수도 있어 오류가 날 수 있다. 
 
@@ -23,6 +23,6 @@
 실행파일이 아니라 코드만 올리므로 꼭 다운로드 후, 이클립스 워크 스페이스에 옮기는 것이 그냥 실행시키는 것 보다 실행될 가능성이 있다. 
 
 
-#코드: ObjectOriented/homework/src/homework/
+# 코드: ObjectOriented/homework/src/homework/
 
-#데이터: ObjectOriented/homework/data
+# 데이터: ObjectOriented/homework/data
